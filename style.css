@@ -89,3 +89,7 @@ footer {
 #darkModeBtn:hover {
   background-color: #005f87;
 }
+a:hover {
+  color: #ff6600;
+  text-decoration: underline;
+}
